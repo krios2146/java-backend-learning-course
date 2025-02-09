@@ -14,6 +14,7 @@ bookTOC = false
 
 | Репозиторий | Автор | Язык | Ревью | Автор ревью |
 |-------------|-------|------|-------|-------------|
-{%- for p in projects -%}
+
+{% for p in projects -%}
 | {{ p | repo }} | {{ p | author }} | {{ p | language }} | {{ p | review }} | {{ p | review_author }} |
 {% endfor %}
