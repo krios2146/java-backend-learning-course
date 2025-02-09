@@ -16,4 +16,4 @@ bookTOC = false
 |-------------|-------|------|-------|-------------|
 {% for p in projects +%}
 | {{ p | repo }} | {{ p | author }} | {{ p | language }} | {{ p | review }} | {{ p | review_author }} |
-{% endfor %}
+{% endfor +%}
