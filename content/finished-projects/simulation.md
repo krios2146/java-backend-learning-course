@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/simulation.md)
 
-148 реализаций на Kotlin, Go, JavaScript, OCaml, C#, Python, PHP, Java. 84 ревью.
+148 реализаций на PHP, Go, JavaScript, Kotlin, C#, OCaml, Python, Java. 84 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
