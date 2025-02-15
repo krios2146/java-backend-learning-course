@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/hangman.md)
 
-257 реализаций на Kotlin, Go, Gleam, Prolog, OCaml, C#, Python, PHP, Java, Rust. 142 ревью.
+257 реализаций на Rust, PHP, Go, Kotlin, C#, OCaml, Python, Gleam, Prolog, Java. 142 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
