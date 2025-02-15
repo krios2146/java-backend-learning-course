@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/tennis-scoreboard.md)
 
-84 реализаций на PHP, Kotlin, Java, Python. 34 ревью.
+84 реализаций на Python, PHP, Kotlin, Java. 34 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
