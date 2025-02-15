@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/weather-viewer.md)
 
-69 реализаций на Kotlin, Go, C#, Python, PHP, Java. 25 ревью.
+69 реализаций на PHP, Go, Kotlin, C#, Python, Java. 25 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
