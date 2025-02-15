@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/currency-exchange.md)
 
-141 реализаций на Kotlin, Go, OCaml, C++, Python, PHP, Java. 41 ревью.
+141 реализаций на PHP, Go, Kotlin, OCaml, Python, C++, Java. 41 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
