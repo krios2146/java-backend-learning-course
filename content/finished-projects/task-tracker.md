@@ -8,7 +8,7 @@ bookTOC = false
 
 [ТЗ проекта](../projects/task-tracker.md)
 
-13 реализаций на Java, Go, Python. 4 ревью.
+13 реализаций на Python, Java, Go. 4 ревью.
 
 Присылайте ваши реализации в чат сообщества - [@zhukovsd_it_chat](https://t.me/zhukovsd_it_chat).
 
